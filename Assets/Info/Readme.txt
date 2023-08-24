@@ -42,3 +42,8 @@ You don't need to download or manage these asset bundles separately. Simply ensu
 1. **Config Data**: To configure settings such as request timeouts, the SDK provides a straightforward method using a JSON configuration file:
    - Open the `Config` folder in the Streaming Assets directory.
    - Locate the `appConfig.json` file and adjust the `RequestTimeout` field to your desired timeout duration in seconds.
+
+
+## Version History
+
+- **Version X.Y.Z** (Release Date):
